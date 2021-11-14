@@ -6,29 +6,6 @@ Life-Breeze is a pharmacy management software which is a windows run application
 
 The presentation layer consists of Login page, Administrator Pages , Pharmacist page and the various user controls assosisated with each of the pages. The Data Layer consists of get, set, update, and delete functionality into the database that is managed through the Microsoft SQL Data Database Management System. The Business Layer consist of all the actions, function calls performed corresponding to each functionality 
 
-# Use Case Diagram  
-![image](https://user-images.githubusercontent.com/10756648/141667507-9152de5e-741f-4547-9bcf-ca454d306917.png)
-
-
-# Sequence Diagram Admin
-![image](https://user-images.githubusercontent.com/10756648/141667536-3b886bf6-a20d-4f81-a65b-9f119c61508a.png)
-
-
-# Sequence Diagram Pharmacist
-![image](https://user-images.githubusercontent.com/10756648/141667558-4d9dab2f-79f5-4c01-9adf-4dfa53e6b53f.png)
-
-
-# UML Diagram 
-![Untitled Workspace (5)](https://user-images.githubusercontent.com/10756648/141667584-3f5eb450-4810-4807-9121-a8c240716de6.png)
-
-
-# Table Design
-![image](https://user-images.githubusercontent.com/10756648/141667603-199fdec2-61c9-4798-a4bd-6a1f1bdc0941.png)
-
-
-# Functionality Table
-![image](https://user-images.githubusercontent.com/10756648/141667617-65084a95-26af-4777-95a6-8707ce0ba866.png)
-
 # Software Snippets
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/10756648/141667658-29bef8ab-9a23-4263-bb9f-5101d7f48713.png)
@@ -52,6 +29,48 @@ The presentation layer consists of Login page, Administrator Pages , Pharmacist 
 ![Screenshot (27)](https://user-images.githubusercontent.com/10756648/141667692-04dbdfa7-1341-471e-b131-f1df3ed65584.png)
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/10756648/141667694-534a0148-a822-4b5d-9df6-e70527f545ca.png)
+
+
+# Requirements and GUI
+
+Visual Studio : Code and Build Software
+Sql Databases
+System Specifications : 
+OS :Windows 10
+Processor : Intel i5
+Ram : 8 GB
+
+
+
+
+# Use Case Diagram  
+
+![image](https://user-images.githubusercontent.com/10756648/141667507-9152de5e-741f-4547-9bcf-ca454d306917.png)
+
+
+# Sequence Diagram Admin
+
+![image](https://user-images.githubusercontent.com/10756648/141667536-3b886bf6-a20d-4f81-a65b-9f119c61508a.png)
+
+
+# Sequence Diagram Pharmacist
+
+![image](https://user-images.githubusercontent.com/10756648/141667558-4d9dab2f-79f5-4c01-9adf-4dfa53e6b53f.png)
+
+
+# UML Diagram 
+
+![Untitled Workspace (5)](https://user-images.githubusercontent.com/10756648/141667584-3f5eb450-4810-4807-9121-a8c240716de6.png)
+
+
+# Table Design
+
+![image](https://user-images.githubusercontent.com/10756648/141667603-199fdec2-61c9-4798-a4bd-6a1f1bdc0941.png)
+
+
+# Functionality Table
+
+![image](https://user-images.githubusercontent.com/10756648/141667617-65084a95-26af-4777-95a6-8707ce0ba866.png)
 
 
 
